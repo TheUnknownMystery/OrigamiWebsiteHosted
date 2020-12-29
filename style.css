@@ -1,0 +1,113 @@
+p {
+
+    color: #ff0000d8
+}
+
+h1 {
+
+    border: solid;
+    border-color: #ffffff
+} 
+
+h3 {
+
+    color: #fd0000
+}
+
+h3 {
+
+    border: solid;
+    border-color: #ffffff
+}
+
+h1{
+
+
+color: #008000
+
+
+}
+
+*{
+
+font-family: 'Nerko One', cursive;
+padding: 15px;
+font-weight: 10000;
+
+}  
+
+.head{
+
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+flex-direction: row;
+
+}
+
+.grid{
+
+color: #ffffff;
+
+}
+
+.step1{
+
+color: #ff0000;
+border-color: white
+}
+
+.step2{
+
+border-color: #ffffff;
+
+}
+
+body{
+
+background-image: url("download.jpg") ;
+
+}
+
+p{
+  
+ display: flex;
+ justify-content: space-around;
+ flex-direction: row;
+ width: 300px;
+ height:300px;
+ padding: 0px;
+ transform: rotate(-16deg);
+}
+
+.how{
+
+transform: rotate(-12deg);
+width:  300px;
+height: 300px;
+
+}
+
+a:visited{
+
+color: red
+
+}
+
+a:link{
+
+color: rgb(82, 20, 82)
+
+}
+
+a:hover{
+
+color: white
+
+}
+
+.origami:hover{
+
+transform: scale(1.1)
+
+}
