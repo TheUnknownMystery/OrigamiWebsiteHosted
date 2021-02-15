@@ -6,7 +6,7 @@
 Hi welcome to this read me page of this opensource project if you want to download this project well...feel free!. You dont need my permission to download it you can download it whenver you want and can use it in your personal projects also! to improve you skills.
 This website is free of charge
 
-=========================================================================================================================================
+===============================================================================================
 
 # Can i use this on any platofarm
 
