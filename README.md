@@ -1,15 +1,15 @@
-# OrigamiWebsiteHosted
+# Welcome 
 
+hello! welcome to this small project i made called Origami website if you want you can Download he code and mess around with it!
+Feel free to edit and have fun. If you have some good suggestion then you can use pull request. And you are always welcome to ask anything you want to the community.
+HappyCoding!!
 
-# Intro
+# Reason
 
-Hi welcome to this read me page of this opensource project if you want to download this project well...feel free!. You dont need my permission to download it you can download it whenver you want and can use it in your personal projects also! to improve you skills.
-This website is free of charge
+Why am i creating this project?
 
-============================================================================================
+this project is a sample for beginners or coders to play and mess around with it to have fun and enjoy!.
 
-# Can i use this on any platofarm
-
-Yes! you can compy paste the code sell it whatever you want to do with it and if you have some good ideas you can let me know in the pull request or issues.
-
-#Bye!
+# Free
+Btw, this is a free prodect so you are allowed to sell or do anything with it 
+     
