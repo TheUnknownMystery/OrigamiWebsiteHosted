@@ -3,7 +3,7 @@
 hello! welcome to this small project i made called Origami website if you want you can Download he code and mess around with it!
 Feel free to edit and have fun. If you have some good suggestion then you can use pull request. And you are always welcome to ask anything you want to the community.
 HappyCoding!!
-![](https://img.shields.io/badge/Projects-1232-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202021-lightgrey.svg)
+
 
 # Reason
 
